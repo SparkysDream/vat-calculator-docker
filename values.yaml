@@ -1,2 +1,2 @@
 image: 4312mc/vat:<+pipeline.sequenceId>
-replicas: 1
+replicas: 4
